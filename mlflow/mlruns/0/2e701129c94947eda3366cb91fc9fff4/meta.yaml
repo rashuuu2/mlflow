@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/developer/mlflow/mlruns/0/2e701129c94947eda3366cb91fc9fff4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e701129c94947eda3366cb91fc9fff4
+run_name: nimble-mare-280
+run_uuid: 2e701129c94947eda3366cb91fc9fff4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754625400959
+status: 1
+tags: []
+user_id: DELL

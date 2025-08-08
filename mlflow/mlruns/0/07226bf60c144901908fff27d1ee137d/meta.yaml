@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/developer/mlflow/mlruns/0/07226bf60c144901908fff27d1ee137d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07226bf60c144901908fff27d1ee137d
+run_name: clean-elk-678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754629285980
+status: 1
+tags: []
+user_id: DELL

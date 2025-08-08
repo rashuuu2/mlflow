@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/developer/mlflow/mlruns/0/06e1a57e77b54cc483d490f3d0156d3d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06e1a57e77b54cc483d490f3d0156d3d
+run_name: incongruous-fawn-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754629616516
+status: 1
+tags: []
+user_id: DELL
