@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/developer/mlflow/mlruns/0/da15a0269169409abd76a6a0d4cb75a5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da15a0269169409abd76a6a0d4cb75a5
+run_name: silent-goose-524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754630675497
+status: 1
+tags: []
+user_id: DELL
